@@ -1,0 +1,14 @@
+
+            function generarTriangulo() {
+                var rotacion = [
+                    Math.cos(angulo), -Math.sin(angulo), 0.0,
+                    Math.sin(angulo), Math.cos(angulo), 0.0,
+                       0.0,              0.0,          1.0,
+                ];
+                return vertices;
+            };
+
+            function rotarDesplazarFigura(desplazamientoX,desplazamientoY,rotacionAngulo) {
+                matriz_transformacion = ()
+
+            }
